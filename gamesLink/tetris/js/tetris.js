@@ -91,7 +91,6 @@ var game = {
             var cell = this.shape.cells[i];
             if (cell.r >= this.RN || cell.r < 0
                 || cell.c >= this.CN || cell.c < 0)
-                debugger;
                 return false;
             else if (this.wall[cell.r][cell.c])
                 return false;

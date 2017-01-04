@@ -5,7 +5,13 @@
 	background: #aaa;
 	width:300px;
 	display: inline;
-
+}
+@media screen and (max-width:768px ){
+	#gallery-content-center div{
+	background: #aaa;
+	width:50%;
+	display: inline;
+}
 }
 #gallery-content-center div img{
 	width: 100%;
