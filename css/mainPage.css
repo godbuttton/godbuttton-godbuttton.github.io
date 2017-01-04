@@ -1,0 +1,23 @@
+.gallery-content-center-full{
+	margin-left: 1.2rem;
+}
+#gallery-content-center div{
+	background: #aaa;
+	width:300px;
+	display: inline;
+
+}
+#gallery-content-center div img{
+	width: 100%;
+	vertical-align: bottom;
+}
+#gallery-content-center div  a{
+	text-decoration: none;
+	color: white;
+}
+#gallery-content-center div>a>h3{
+	text-align: center;
+}
+#gallery-content-center div>a>p{
+	padding-left: 10px;
+}

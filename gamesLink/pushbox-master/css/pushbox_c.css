@@ -1,0 +1,30 @@
+/*通用样式*/
+*{
+	margin: 0px;	
+	padding: 0px;
+	box-sizing: border-box;
+}
+li{
+	list-style: none;
+}
+#game{
+	width: 740px;
+	height: 592px;
+	margin: 50px auto;
+	border: 1px solid #ddd;
+}
+#gameBtn{
+	color: white;
+	width: 70px;
+	height: 20px;
+	border: 1px solid blue;
+	color: #0000FF;
+	margin: 400px auto;
+	background: url(../img/wall.png) -5px -5px;
+	text-align: center;
+}
+
+.shuoming{
+	text-align: center;
+	color: orangered;
+}
