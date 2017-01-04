@@ -9,7 +9,7 @@
 @media screen and (max-width:768px ){
 	#gallery-content-center div{
 	background: #aaa;
-	width:50%;
+	width:40%;
 	display: inline;
 }
 }
