@@ -1,5 +1,5 @@
 <template>
-    <h1 >这是音乐</h1>
+    <h1 >这是apps</h1>
 </template>
 <script>
     export default{

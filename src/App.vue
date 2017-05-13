@@ -16,9 +16,10 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: white;
-  background-color:#1F2D3D;
+  background-color:#EBEBEB;
   height:100%;
   position:fixed;
+  font-size: 14px;
   left:0;
   right:0;
   top:0;

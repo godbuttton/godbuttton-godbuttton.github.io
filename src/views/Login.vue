@@ -33,7 +33,7 @@
         methods:{
             goLogin:function(){
                 console.log(this.login)
-                 this.$router.push("./Home")
+                 this.$router.push("./control")
             }
         }
     }

@@ -1,11 +1,9 @@
 <template>
-<div>
-    <h1 >main</h1>
-  </div>
+    <h1 >accounts</h1>
 </template>
 <script>
     export default{
-      
+        
     }
 </script>
 <style scoped lang="less">
