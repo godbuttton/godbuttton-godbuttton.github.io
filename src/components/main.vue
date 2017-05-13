@@ -4,9 +4,8 @@
   </div>
 </template>
 <script>
-    import swiper from 'vue-swiper'
     export default{
-        components:{swiper}
+      
     }
 </script>
 <style scoped lang="less">
